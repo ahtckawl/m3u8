@@ -1,4 +1,4 @@
-name: Keep Render App Alive
+name: Keep Render App Alive #wtf
 
 on:
   schedule:
